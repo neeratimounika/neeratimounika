@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on NextGen Campaign<br><br>- 🌱 I’m currently learning React Js, Redux<br><br>- 👨‍💻 All of my projects are available at [https://github.com/neeratimounika]<br><br>- 💬 Ask me about React,MERN<br><br>- 📫 How to reach me mounika.neerati93@gmail.com<br><br>- 📄 Know about my experiences https://mounikport.netlify.app/<br><br>- ⚡ Fun fact I am Funn<br><br>
+🔭 I’m currently working on NextGen Campaign<br><br>- 🌱 I’m currently learning React Js, Redux<br><br>- 👨‍💻 All of my projects are available at [https://github.com/neeratimounika]<br><br>- 💬 Ask me about React,MERN<br><br>- 📫 How to reach me mounika.neerati93@gmail.com<br><br>- 📄 Know about my experiences https://mounikport.netlify.app/<br><br>- ⚡ Fun fact Travelling and Watching Movies<br><br>
 
 
 ## 🌐 Socials:
