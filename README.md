@@ -1,4 +1,11 @@
-# 💫 About Me:
+<h1 align="center">Hi there 👋, I'm Mounika Neerati</h1>
+<img  alt="Coding" src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif">
+<h1>💫 I'm a Passionate Front-End Developer</h1>
+
+
+<h5>Application Engineer | UI Developer | React  | Hooks | Redux | Express Js | SQL |Tailwindcss <br><br></h5>
+
+<h4>Skills: REACT / JS / HTML / CSS / Bootstrap</h4>
 🔭 I’m currently working on Frontend Developement<br><br>🌱 I’m currently learning FullStack Development with MERN Specialization<br><br>- 🌱 I’m Looking to collaborate on ReactJs<br><br>- 👨‍💻 All of my projects are available at [https://github.com/neeratimounika]<br><br>- 💬 Ask me about Frontend<br><br> 🤔 I’m looking for help with BackEnd <br><br>- 📫 How to reach me mounika.neerati93@gmail.com<br><br>- 📄 Know about my experiences https://mounikport.netlify.app/<br><br>- ⚡ Fun fact Travelling and Watching Movies<br><br>
 
 
