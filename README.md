@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
-<h5>Application Engineer | UI Developer | React  | Hooks | Redux | Express Js | SQL |Tailwindcss <br><br></h5>
+<h4>Application Engineer | UI Developer | React  | Hooks | Redux | Express Js | SQL |Tailwindcss <br><br></h4>
 
-<h4>Skills: REACT / JS / HTML / CSS / Bootstrap</h4>
+<h5>Skills: REACT / JS / HTML / CSS / Bootstrap</h5>
 🔭 I’m currently working on Frontend Developement<br><br>🌱 I’m currently learning FullStack Development with MERN Specialization<br><br>- 🌱 I’m Looking to collaborate on ReactJs<br><br>- 👨‍💻 All of my projects are available at [https://github.com/neeratimounika]<br><br>- 💬 Ask me about Frontend<br><br> 🤔 I’m looking for help with BackEnd <br><br>- 📫 How to reach me mounika.neerati93@gmail.com<br><br>- 📄 Know about my experiences https://mounikport.netlify.app/<br><br>- ⚡ Fun fact Travelling and Watching Movies<br><br>
 
 ## 🌐 Socials:
